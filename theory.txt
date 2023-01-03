@@ -1,0 +1,4 @@
+1. Emmet is a plugin provided by VSCode to auto-complete boilerplate HTML and CSS code
+Eg: type html and press enter
+
+2. The major 
